@@ -15,7 +15,7 @@
     <ItemGroup>
         <PackageReference Include="Microsoft.AspNetCore.DataProtection" Version="8.0.0" />
         <PackageReference Include="Microsoft.AspNetCore.DataProtection.Extensions" Version="8.0.0" />
-        <PackageReference Include="chia-dotnet" Version="2.2.1" />
+        <PackageReference Include="chia-dotnet" Version="3.0.1" />
         <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />
         <PackageReference Include="Microsoft.Extensions.Http" Version="8.0.0" />
         <PackageReference Include="System.CommandLine" Version="2.0.0-beta4.22272.1" />
