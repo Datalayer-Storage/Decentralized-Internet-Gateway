@@ -11,7 +11,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="chia-dotnet" Version="2.2.1" />
+        <PackageReference Include="chia-dotnet" Version="3.0.1" />
         <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.22.0" />
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.0" />
         <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="8.0.0" />
